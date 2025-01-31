@@ -1,0 +1,1413 @@
+{
+    "Apex Legends": [
+        "Action",
+        "Adventure",
+        "Free To Play"
+    ],
+    "Counter-Strike 2": [
+        "Action",
+        "Free To Play"
+    ],
+    "THE FINALS": [
+        "Action",
+        "Free To Play"
+    ],
+    "Terraria": [
+        "Action",
+        "Adventure",
+        "Indie",
+        "RPG"
+    ],
+    "Wallpaper Engine": [
+        "Casual",
+        "Indie",
+        "Animation & Modeling",
+        "Design & Illustration",
+        "Photo Editing",
+        "Utilities"
+    ],
+    "Brawlhalla": [
+        "Action",
+        "Indie",
+        "Free To Play"
+    ],
+    "ELDEN RING": [
+        "Action",
+        "RPG"
+    ],
+    "Phasmophobia": [
+        "Action",
+        "Indie",
+        "Early Access"
+    ],
+    "Aseprite": [
+        "Animation & Modeling",
+        "Design & Illustration",
+        "Game Development"
+    ],
+    "UNO": [
+        "Casual"
+    ],
+    "OMORI": [
+        "Adventure",
+        "Indie",
+        "RPG"
+    ],
+    "MultiVersus": [
+        "Action",
+        "Free To Play"
+    ],
+    "War Thunder": [
+        "Action",
+        "Massively Multiplayer",
+        "Simulation",
+        "Free To Play"
+    ],
+    "Rust": [
+        "Action",
+        "Adventure",
+        "Indie",
+        "Massively Multiplayer",
+        "RPG"
+    ],
+    "Hearts of Iron IV": [
+        "Sim\u00fclasyon",
+        "Strateji"
+    ],
+    "Grand Theft Auto V": [
+        "Action",
+        "Adventure"
+    ],
+    "Destiny 2": [
+        "Action",
+        "Adventure",
+        "Free To Play"
+    ],
+    "Dread Hunger": [
+        "Action",
+        "Adventure",
+        "Indie"
+    ],
+    "Overwatch\u00ae 2": [
+        "Action",
+        "Free To Play"
+    ],
+    "Satisfactory": [
+        "Adventure",
+        "Indie",
+        "Simulation",
+        "Strategy"
+    ],
+    "ARK: Survival Evolved": [
+        "Action",
+        "Adventure",
+        "Indie",
+        "Massively Multiplayer",
+        "RPG"
+    ],
+    "Palworld": [
+        "Action",
+        "Adventure",
+        "Indie",
+        "RPG",
+        "Early Access"
+    ],
+    "PAYDAY 2": [
+        "Action",
+        "RPG"
+    ],
+    "Tom Clancy's Rainbow Six Siege": [
+        "Action"
+    ],
+    "Paladins": [
+        "Action",
+        "Adventure",
+        "Massively Multiplayer",
+        "Strategy",
+        "Free To Play"
+    ],
+    "Arma 3": [
+        "Action",
+        "Simulation",
+        "Strategy"
+    ],
+    "Garry's Mod": [
+        "Casual",
+        "Indie",
+        "Simulation"
+    ],
+    "Ravenfield": [
+        "Action",
+        "Indie",
+        "Early Access"
+    ],
+    "People Playground": [
+        "Action",
+        "Casual",
+        "Indie",
+        "Simulation"
+    ],
+    "Call of Duty\u00ae": [
+        "Action"
+    ],
+    "Rocket League": [
+        "Action",
+        "Indie",
+        "Racing",
+        "Sports"
+    ],
+    "Bloons TD 6": [
+        "Strategy"
+    ],
+    "Deadlock": [
+        "Action"
+    ],
+    "HELLDIVERS\u2122 2": [
+        "Action"
+    ],
+    "Sea of Thieves": [
+        "Action",
+        "Adventure"
+    ],
+    "God of War": [
+        "Action",
+        "Adventure",
+        "RPG"
+    ],
+    "Hogwarts Legacy": [
+        "Action",
+        "Adventure",
+        "RPG"
+    ],
+    "God of War Ragnar\u00f6k": [
+        "Action",
+        "Adventure",
+        "RPG"
+    ],
+    "PlateUp!": [
+        "Action",
+        "Casual",
+        "Indie",
+        "Strategy"
+    ],
+    "Ready or Not": [
+        "Action",
+        "Adventure",
+        "Indie"
+    ],
+    "Battlefield 1 \u2122": [
+        "Action",
+        "Massively Multiplayer"
+    ],
+    "Risk of Rain 2": [
+        "Action",
+        "Indie"
+    ],
+    "Persona 5 Royal": [
+        "RPG"
+    ],
+    "Persona 3 Reload": [
+        "Adventure",
+        "RPG",
+        "Strategy"
+    ],
+    "VRChat": [
+        "Adventure",
+        "Casual",
+        "Massively Multiplayer",
+        "Simulation",
+        "Sports",
+        "Free To Play",
+        "Early Access"
+    ],
+    "OVR Advanced Settings": [
+        "Utilities"
+    ],
+    "fpsVR": [
+        "Indie",
+        "Utilities"
+    ],
+    "STALCRAFT: X": [
+        "Action",
+        "Adventure",
+        "Massively Multiplayer",
+        "RPG"
+    ],
+    "XSOverlay": [
+        "Utilities",
+        "Early Access"
+    ],
+    "tModLoader": [
+        "Action",
+        "Adventure",
+        "Indie",
+        "RPG",
+        "Free To Play"
+    ],
+    "Crosshair V2": [
+        "Utilities"
+    ],
+    "Sid Meier's Civilization V": [
+        "Strategy"
+    ],
+    "Cities: Skylines": [
+        "Simulation",
+        "Strategy"
+    ],
+    "Project Zomboid": [
+        "Indie",
+        "RPG",
+        "Simulation",
+        "Early Access"
+    ],
+    "Muse Dash": [
+        "Azione",
+        "Passatempo",
+        "Indie"
+    ],
+    "Call of Duty: Black Ops III": [
+        "Action",
+        "Adventure"
+    ],
+    "NBA 2K22": [
+        "Simulation",
+        "Sports"
+    ],
+    "Marauders": [
+        "Action",
+        "Early Access"
+    ],
+    "Game Dev Tycoon": [
+        "Casual",
+        "Indie",
+        "Simulation",
+        "Strategy"
+    ],
+    "Mini Metro": [
+        "Indie",
+        "Simulation",
+        "Strategy"
+    ],
+    "Counter-Strike": [
+        "Action"
+    ],
+    "Baldur's Gate 3": [
+        "Adventure",
+        "RPG",
+        "Strategy"
+    ],
+    "Soundpad": [
+        "Audio Production",
+        "Utilities"
+    ],
+    "Dead by Daylight": [
+        "Action"
+    ],
+    "MORDHAU": [
+        "Action",
+        "Indie"
+    ],
+    "DSX": [
+        "Utilities"
+    ],
+    "Deadside": [
+        "Action",
+        "Adventure",
+        "Indie",
+        "Massively Multiplayer"
+    ],
+    "Warframe": [
+        "Action",
+        "RPG",
+        "Free To Play"
+    ],
+    "Lost Ark": [
+        "Action",
+        "Adventure",
+        "Massively Multiplayer",
+        "RPG",
+        "Free To Play"
+    ],
+    "Stardew Valley": [
+        "Indie",
+        "RPG",
+        "Simulation"
+    ],
+    "Conflict of Nations: World War 3": [
+        "Free To Play",
+        "Indie",
+        "Massively Multiplayer",
+        "Strategy"
+    ],
+    "Yu-Gi-Oh!  Master Duel": [
+        "Simulation",
+        "Strategy",
+        "Free To Play"
+    ],
+    "Monster Hunter: World": [
+        "Action"
+    ],
+    "Tales of Symphonia": [
+        "RPG"
+    ],
+    "Among Us": [
+        "Casual"
+    ],
+    "SMITE": [
+        "Action",
+        "Adventure",
+        "Casual",
+        "Massively Multiplayer",
+        "RPG",
+        "Strategy",
+        "Free To Play"
+    ],
+    "Trove": [
+        "Action",
+        "Adventure",
+        "Casual",
+        "Massively Multiplayer",
+        "RPG",
+        "Free To Play"
+    ],
+    "PUBG: BATTLEGROUNDS": [
+        "Action",
+        "Adventure",
+        "Massively Multiplayer",
+        "Free To Play"
+    ],
+    "Unturned": [
+        "Action",
+        "Adventure",
+        "Casual",
+        "Indie",
+        "Free To Play"
+    ],
+    "Mass Effect\u2122 Legendary Edition": [
+        "Action",
+        "RPG"
+    ],
+    "Town of Salem": [
+        "Action",
+        "Casual",
+        "RPG",
+        "Strategy"
+    ],
+    "Fallout: New Vegas": [
+        "Action",
+        "RPG"
+    ],
+    "Aimlabs": [
+        "Action",
+        "Adventure",
+        "Casual",
+        "Indie",
+        "Simulation",
+        "Free To Play"
+    ],
+    "Eternal Return": [
+        "Indie",
+        "Strategy",
+        "Free To Play"
+    ],
+    "Shadowverse": [
+        "Strategy",
+        "Free To Play"
+    ],
+    "Natural Selection 2": [
+        "Action",
+        "Indie",
+        "Strategy"
+    ],
+    "Just Cause 4": [
+        "Action",
+        "Adventure"
+    ],
+    "Blender": [
+        "Animation & Modeling",
+        "Design & Illustration",
+        "Video Production"
+    ],
+    "Just Cause 3": [
+        "Action",
+        "Adventure"
+    ],
+    "Spintires\u00ae": [],
+    "MudRunner": [
+        "Simulation"
+    ],
+    "Fallout 4": [
+        "RPG"
+    ],
+    "ULTRAKILL": [
+        "Action",
+        "Indie",
+        "Early Access"
+    ],
+    "Warhammer 40,000: Space Marine 2": [
+        "Action",
+        "Adventure",
+        "RPG"
+    ],
+    "Cyberpunk 2077": [
+        "RPG"
+    ],
+    "The Cycle: Frontier": [
+        "Action",
+        "Free To Play",
+        "Massively Multiplayer"
+    ],
+    "Borderlands 2": [
+        "Action",
+        "RPG"
+    ],
+    "New World: Aeternum": [
+        "Action",
+        "Adventure",
+        "Massively Multiplayer",
+        "RPG"
+    ],
+    "Geometry Dash": [
+        "Action",
+        "Indie"
+    ],
+    "Portal": [
+        "Action"
+    ],
+    "Universe Sandbox": [
+        "Casual",
+        "Indie",
+        "Simulation",
+        "Early Access"
+    ],
+    "Fallout 76": [
+        "RPG"
+    ],
+    "Factorio": [
+        "Casual",
+        "Indie",
+        "Simulation",
+        "Strategy"
+    ],
+    "theHunter: Call of the Wild\u2122": [
+        "Adventure",
+        "Simulation",
+        "Sports"
+    ],
+    "American Truck Simulator": [
+        "Indie",
+        "Simulation"
+    ],
+    "Stormworks: Build and Rescue": [
+        "Simulation"
+    ],
+    "The Isle": [
+        "Action",
+        "Adventure",
+        "Indie",
+        "Massively Multiplayer",
+        "Simulation",
+        "Early Access"
+    ],
+    "Sons Of The Forest": [
+        "Action",
+        "Adventure",
+        "Indie",
+        "Simulation"
+    ],
+    "Bloons TD Battles": [
+        "Action",
+        "Free To Play",
+        "Strategy"
+    ],
+    "CreativeDestruction": [
+        "Action",
+        "Adventure",
+        "Casual",
+        "Massively Multiplayer"
+    ],
+    "Teardown": [
+        "Action",
+        "Indie",
+        "Simulation",
+        "Strategy"
+    ],
+    "Left 4 Dead 2": [
+        "Action"
+    ],
+    "Rec Room": [
+        "Adventure",
+        "Casual",
+        "Massively Multiplayer",
+        "Free To Play"
+    ],
+    "Crosshair X": [
+        "Action",
+        "Adventure",
+        "Indie",
+        "Animation & Modeling",
+        "Design & Illustration",
+        "Education",
+        "Photo Editing",
+        "Utilities",
+        "Game Development"
+    ],
+    "SCP: Secret Laboratory": [
+        "Action",
+        "Free To Play"
+    ],
+    "Cookie Clicker": [
+        "Casual",
+        "Indie",
+        "Simulation",
+        "Strategy"
+    ],
+    "The Binding of Isaac: Rebirth": [
+        "Action"
+    ],
+    "Idle Skilling": [
+        "Casual",
+        "Indie",
+        "Simulation",
+        "Free To Play"
+    ],
+    "Counter-Strike: Source": [
+        "Action"
+    ],
+    "Pixel Gun 3D: PC Edition": [
+        "Action",
+        "Adventure",
+        "Massively Multiplayer",
+        "Free To Play"
+    ],
+    "Hot Dogs, Horseshoes & Hand Grenades": [
+        "Action",
+        "Simulation",
+        "Early Access"
+    ],
+    "Back 4 Blood": [
+        "Action"
+    ],
+    "Lethal Company": [
+        "Action",
+        "Adventure",
+        "Indie",
+        "Early Access"
+    ],
+    "Ultimate Custom Night": [
+        "Action",
+        "Free To Play",
+        "Indie"
+    ],
+    "The Elder Scrolls Online": [
+        "Action",
+        "Adventure",
+        "Massively Multiplayer",
+        "RPG"
+    ],
+    "Squad": [
+        "Action",
+        "Indie",
+        "Massively Multiplayer",
+        "Strategy"
+    ],
+    "DayZ": [
+        "Action",
+        "Adventure",
+        "Massively Multiplayer"
+    ],
+    "MONSTER HUNTER RISE": [
+        "Action"
+    ],
+    "Counter-Strike: Condition Zero": [
+        "Action"
+    ],
+    "BeamNG.drive": [
+        "Racing",
+        "Simulation",
+        "Early Access"
+    ],
+    "theHunter Classic": [
+        "Action",
+        "Adventure",
+        "Free To Play",
+        "Simulation",
+        "Sports"
+    ],
+    "FIFA 22": [
+        "Simulation",
+        "Sports"
+    ],
+    "Marbles on Stream": [
+        "Casual",
+        "Free To Play",
+        "Massively Multiplayer",
+        "Racing",
+        "Simulation"
+    ],
+    "Warhammer: Vermintide 2": [
+        "Action",
+        "Indie",
+        "RPG"
+    ],
+    "Total War: WARHAMMER III": [
+        "Action",
+        "Strategy"
+    ],
+    "EVGA Precision X1": [
+        "Utilities"
+    ],
+    "Dyson Sphere Program": [
+        "Indie",
+        "Simulation",
+        "Strategy",
+        "Early Access"
+    ],
+    "Space Engineers": [
+        "Action",
+        "Indie",
+        "Simulation",
+        "Strategy"
+    ],
+    "Rain World": [
+        "Action",
+        "Adventure",
+        "Indie"
+    ],
+    "Farming Simulator 22": [
+        "Simulation"
+    ],
+    "The Past Within": [
+        "Adventure",
+        "Indie"
+    ],
+    "\u96c0\u9b42\u9ebb\u5c06(MahjongSoul)": [],
+    "NARAKA: BLADEPOINT": [
+        "Action",
+        "Adventure",
+        "Massively Multiplayer"
+    ],
+    "Fall Guys": [
+        "Action",
+        "Casual",
+        "Indie",
+        "Massively Multiplayer",
+        "Sports"
+    ],
+    "Party Animals": [
+        "Action",
+        "Casual",
+        "Indie"
+    ],
+    "It Takes Two": [
+        "Action",
+        "Adventure"
+    ],
+    "Mount & Blade II: Bannerlord": [
+        "Action",
+        "Indie",
+        "RPG",
+        "Simulation",
+        "Strategy"
+    ],
+    "Sid Meier's Civilization VI": [
+        "Strategy"
+    ],
+    "Fear Surrounds": [
+        "Casual",
+        "Indie",
+        "RPG",
+        "Free To Play"
+    ],
+    "Hobo: Tough Life": [
+        "Adventure",
+        "Indie",
+        "RPG",
+        "Simulation"
+    ],
+    "Goose Goose Duck": [
+        "Casual",
+        "Indie",
+        "Massively Multiplayer",
+        "Strategy",
+        "Free To Play"
+    ],
+    "Granblue Fantasy: Versus": [
+        "Action"
+    ],
+    "Z1 Battle Royale": [
+        "Action",
+        "Adventure",
+        "Free To Play",
+        "Massively Multiplayer"
+    ],
+    "Soul Dossier": [
+        "Action",
+        "Adventure",
+        "Massively Multiplayer",
+        "RPG",
+        "Strategy",
+        "Free To Play"
+    ],
+    "Brotato": [
+        "Action",
+        "Casual",
+        "Indie",
+        "RPG"
+    ],
+    "Slay the Spire": [
+        "Indie",
+        "Strategy"
+    ],
+    "Black Myth: Wukong": [
+        "Action",
+        "Adventure",
+        "RPG"
+    ],
+    "Kerbal Space Program": [
+        "Indie",
+        "Simulation"
+    ],
+    "SUPER PEOPLE 2": [
+        "Action",
+        "Casual",
+        "Massively Multiplayer",
+        "Free To Play",
+        "Early Access"
+    ],
+    "Red Dead Redemption 2": [
+        "Action",
+        "Adventure"
+    ],
+    "Luma Island": [
+        "Adventure",
+        "Casual",
+        "Indie",
+        "RPG",
+        "Simulation"
+    ],
+    "LOCKDOWN Protocol": [
+        "Action",
+        "Casual",
+        "Indie",
+        "Strategy",
+        "Early Access"
+    ],
+    "Farm Together 2": [
+        "Casual",
+        "Indie",
+        "Simulation",
+        "Early Access"
+    ],
+    "Richman 11": [
+        "Casual",
+        "Strategy"
+    ],
+    "Don't Starve Together": [
+        "Action",
+        "Adventure",
+        "Indie",
+        "RPG",
+        "Simulation",
+        "Strategy"
+    ],
+    "DEVOUR": [
+        "Indie"
+    ],
+    "Battlefield\u2122 2042": [
+        "Action",
+        "Adventure",
+        "Casual"
+    ],
+    "Battlefield\u2122 V": [
+        "Action"
+    ],
+    "Hunt: Showdown 1896": [
+        "Action"
+    ],
+    "Human Fall Flat": [
+        "Adventure",
+        "Casual",
+        "Indie",
+        "Simulation"
+    ],
+    "Alien Shooter": [
+        "Action",
+        "Indie",
+        "RPG"
+    ],
+    "Forza Horizon 4": [
+        "Racing"
+    ],
+    "RimWorld": [
+        "Indie",
+        "Simulation",
+        "Strategy"
+    ],
+    "The Forest": [
+        "Acci\u00f3n",
+        "Aventura",
+        "Indie",
+        "Simuladores"
+    ],
+    "No One Survived": [
+        "Adventure",
+        "Indie",
+        "RPG",
+        "Early Access"
+    ],
+    "Pummel Party": [
+        "Action",
+        "Casual",
+        "Indie"
+    ],
+    "Titanfall\u00ae 2": [
+        "Action"
+    ],
+    "Will To Live Online": [
+        "Action",
+        "Indie",
+        "Massively Multiplayer",
+        "RPG",
+        "Free To Play",
+        "Early Access"
+    ],
+    "DRAGON BALL Z: KAKAROT": [
+        "Action",
+        "RPG"
+    ],
+    "VTube Studio": [
+        "Indie",
+        "Animation & Modeling",
+        "Video Production"
+    ],
+    "Dungeonborne": [
+        "Action",
+        "Adventure",
+        "RPG",
+        "Strategy",
+        "Free To Play",
+        "Early Access"
+    ],
+    "Valheim": [
+        "Action",
+        "Adventure",
+        "Indie",
+        "RPG",
+        "Early Access"
+    ],
+    "Train Sim World\u00ae 3": [
+        "Simulation"
+    ],
+    "EA SPORTS FC\u2122 24": [
+        "Simulation",
+        "Sports"
+    ],
+    "EA SPORTS\u2122 FIFA 23": [
+        "Simulation",
+        "Sports"
+    ],
+    "DRAGON BALL XENOVERSE 2": [
+        "Action",
+        "Adventure",
+        "Casual",
+        "Massively Multiplayer"
+    ],
+    "Inside the Backrooms": [
+        "Adventure",
+        "Indie",
+        "Early Access"
+    ],
+    "Supermarket Simulator": [
+        "Casual",
+        "Indie",
+        "Simulation",
+        "Early Access"
+    ],
+    "My Time at Sandrock": [
+        "Adventure",
+        "Casual",
+        "Indie",
+        "RPG",
+        "Simulation"
+    ],
+    "Raft": [
+        "Adventure",
+        "Indie",
+        "Simulation"
+    ],
+    "Plants vs. Zombies: Game of the Year": [
+        "Strategy"
+    ],
+    "Total War: THREE KINGDOMS": [
+        "Action",
+        "Strategy"
+    ],
+    "Farm Together": [
+        "Casual",
+        "Indie",
+        "Simulation"
+    ],
+    "State of War : Warmonger / \u84dd\u8272\u8b66\u6212 (Classic 2000)": [
+        "Action",
+        "Strategy"
+    ],
+    "NARUTO SHIPPUDEN: Ultimate Ninja STORM 4": [
+        "Action",
+        "Adventure"
+    ],
+    "World War Z": [
+        "Action"
+    ],
+    "Richman10": [
+        "Casual",
+        "Strategy"
+    ],
+    "Professional Fishing": [
+        "Action",
+        "Casual",
+        "Massively Multiplayer",
+        "Simulation",
+        "Sports",
+        "Free To Play"
+    ],
+    "Ring of Elysium": [
+        "Action",
+        "Free To Play",
+        "Massively Multiplayer"
+    ],
+    "Mount & Blade: Warband": [
+        "Action",
+        "RPG"
+    ],
+    "\u5d29\u574f3": [],
+    "We Were Here Expeditions: The FriendShip": [
+        "Adventure",
+        "Casual",
+        "Indie"
+    ],
+    "Car Mechanic Simulator 2021": [
+        "Racing",
+        "Simulation"
+    ],
+    "World of Tanks Blitz": [
+        "Action",
+        "Massively Multiplayer",
+        "Simulation",
+        "Strategy",
+        "Free To Play"
+    ],
+    "PlanetSide 2": [
+        "Action",
+        "Massively Multiplayer",
+        "Free To Play"
+    ],
+    "No More Room in Hell": [
+        "Action",
+        "Indie",
+        "Free To Play"
+    ],
+    "Conan Exiles": [
+        "Action",
+        "Adventure",
+        "Massively Multiplayer",
+        "RPG",
+        "Simulation",
+        "Strategy"
+    ],
+    "MyDockFinder": [
+        "Utilities"
+    ],
+    "Sniper Elite 4": [
+        "Action",
+        "Adventure"
+    ],
+    "Sinister Night 2": [
+        "Action",
+        "Adventure",
+        "Casual",
+        "RPG",
+        "Strategy",
+        "Early Access"
+    ],
+    "Victoria 3": [
+        "Simulation",
+        "Strategy"
+    ],
+    "China: Mao's legacy": [
+        "Indie",
+        "Simulation",
+        "Strategy"
+    ],
+    "Book of Hours": [
+        "Indie",
+        "RPG",
+        "Simulation"
+    ],
+    "Russian Fishing 4": [
+        "Adventure",
+        "Casual",
+        "Massively Multiplayer",
+        "RPG",
+        "Simulation",
+        "Sports",
+        "Free To Play"
+    ],
+    "Heroes of the Three Kingdoms 7": [
+        "RPG",
+        "Simulation",
+        "Strategy"
+    ],
+    "Hero's Land": [
+        "Action",
+        "Adventure",
+        "Massively Multiplayer",
+        "RPG",
+        "Free To Play"
+    ],
+    "Chivalry 2": [
+        "Action",
+        "Massively Multiplayer"
+    ],
+    "Shawarma Legend": [
+        "Simulation"
+    ],
+    "Dying Light 2: Reloaded Edition": [
+        "Action",
+        "Adventure",
+        "RPG"
+    ],
+    "Dying Light": [
+        "Action",
+        "RPG"
+    ],
+    "Green Hell": [
+        "Action",
+        "Adventure",
+        "Indie",
+        "Simulation"
+    ],
+    "7 Days to Die": [
+        "Action",
+        "Adventure",
+        "Indie",
+        "RPG",
+        "Simulation",
+        "Strategy"
+    ],
+    "Lust Goddess": [
+        "Action",
+        "Adventure",
+        "Massively Multiplayer",
+        "RPG",
+        "Strategy",
+        "Free To Play"
+    ],
+    "DARK SOULS\u2122 III": [
+        "Action"
+    ],
+    "Digimon Story Cyber Sleuth: Complete Edition": [
+        "RPG"
+    ],
+    "Jurassic World Evolution 2": [
+        "Simulation",
+        "Strategy"
+    ],
+    "Forza Horizon 5": [
+        "Action",
+        "Adventure",
+        "Racing",
+        "Simulation",
+        "Sports"
+    ],
+    "Assetto Corsa Competizione": [
+        "Racing",
+        "Simulation",
+        "Sports"
+    ],
+    "Company of Heroes 2": [
+        "Strategy"
+    ],
+    "Farming Simulator 19": [
+        "Simulation"
+    ],
+    "Dungeons & Dragons Online\u00ae": [
+        "Action",
+        "Adventure",
+        "Massively Multiplayer",
+        "RPG",
+        "Free To Play"
+    ],
+    "EVE Online": [
+        "Action",
+        "Massively Multiplayer",
+        "RPG",
+        "Strategy",
+        "Free To Play"
+    ],
+    "FINAL FANTASY XIV Online": [
+        "Massively Multiplayer",
+        "RPG"
+    ],
+    "Assetto Corsa": [
+        "Indie",
+        "Racing",
+        "Simulation",
+        "Sports"
+    ],
+    "Grand Theft Auto IV: The Complete Edition": [
+        "Action",
+        "Adventure"
+    ],
+    "Deep Rock Galactic": [
+        "Action"
+    ],
+    "Serious Sam 3: BFE": [
+        "Action",
+        "Indie"
+    ],
+    "Enforcer: Police Crime Action": [
+        "Action",
+        "Adventure",
+        "Simulation"
+    ],
+    "Squad 44": [
+        "Action",
+        "Indie",
+        "Massively Multiplayer",
+        "Strategy"
+    ],
+    "VTOL VR": [],
+    "Bus Simulator 18": [],
+    "Heroes & Generals": [],
+    "SnowRunner": [],
+    "Barotrauma": [],
+    "EMERGENCY 4 Deluxe": [],
+    "Realm of the Mad God Exalt": [],
+    "Loadout": [],
+    "Blockstorm": [],
+    "LEGO\u00ae MARVEL Super Heroes": [],
+    "Quake Live": [],
+    "Portal 2": [
+        "Action",
+        "Adventure"
+    ],
+    "Halo Infinite": [
+        "Action",
+        "Free To Play"
+    ],
+    "Killing Floor 2": [],
+    "Madden NFL 24": [],
+    "Pavlov VR": [],
+    "Stellaris": [],
+    "The Elder Scrolls V: Skyrim": [],
+    "Gotham City Impostors: Free To Play": [],
+    "OVR Toolkit": [],
+    "Friday the 13th: The Game": [],
+    "The Texas Chain Saw Massacre": [],
+    "BattleBit Remastered": [],
+    "HighFleet": [],
+    "The Elder Scrolls IV: Oblivion ": [],
+    "Dungeon Defenders II": [],
+    "Car Mechanic Simulator 2018": [],
+    "Warface: Clutch": [],
+    "Soda Dungeon": [],
+    "DCS World Steam Edition": [
+        "Simulation",
+        "Free To Play"
+    ],
+    "The Sims\u2122 4": [],
+    "Idle Slayer": [],
+    "AdVenture Capitalist": [],
+    "Clicker Heroes": [],
+    "PowerWash Simulator": [
+        "Casual",
+        "Indie",
+        "Simulation"
+    ],
+    "Bloons TD Battles 2": [],
+    "Magic: The Gathering Arena": [],
+    "Undertale": [],
+    "Doki Doki Literature Club": [],
+    "Mabinogi": [],
+    "Scrap Mechanic": [],
+    "CarX Drift Racing Online": [],
+    "Transformice": [],
+    "Counter-Strike Nexon": [],
+    "X4: Foundations": [],
+    "Quake II": [],
+    "Skullgirls 2nd Encore": [],
+    "Batman: Arkham City GOTY": [],
+    "GUILTY GEAR -STRIVE-": [],
+    "Door Kickers 2": [],
+    "Sven Co-op": [],
+    "Counter-Strike: Condition Zero Deleted Scenes": [],
+    "SCUM": [],
+    "Space Haven": [],
+    "Euro Truck Simulator 2": [
+        "Indie",
+        "Simulation"
+    ],
+    "Elite Dangerous": [],
+    "Europa Universalis IV": [],
+    "Crusader Kings II": [],
+    "Substance 3D Painter 2022": [],
+    "X-Plane 11": [],
+    "The Spike": [],
+    "Overcooked! 2": [],
+    "POSTAL 2": [
+        "Action",
+        "Adventure",
+        "Indie"
+    ],
+    "Call of Duty\u00ae: Modern Warfare\u00ae 3 (2011) - Multiplayer": [],
+    "STAR WARS\u2122 Knights of the Old Republic\u2122": [],
+    "Black Mesa": [],
+    "Far Cry 5": [
+        "Action",
+        "Adventure"
+    ],
+    "Half-Life 2": [
+        "Action"
+    ],
+    "METAL GEAR SOLID V: THE PHANTOM PAIN": [
+        "Action",
+        "Adventure"
+    ],
+    "Tom Clancy's The Division 2": [],
+    "The Elder Scrolls V: Skyrim Special Edition": [],
+    "Insurgency": [],
+    "Sprocket": [],
+    "Kritika:REBOOT": [],
+    "Black Desert": [],
+    "Soulworker": [],
+    "Men of War: Assault Squad 2": [],
+    "DiRT Rally 2.0": [],
+    "EA SPORTS\u2122 WRC 24": [],
+    "Synergy": [],
+    "ACE COMBAT\u21227: SKIES UNKNOWN": [],
+    "Half-Life: Blue Shift": [
+        "Action"
+    ],
+    "Killing Floor": [],
+    "SYNTHETIK": [],
+    "Yu-Gi-Oh! Duel Links": [],
+    "Granblue Fantasy Versus: Rising": [
+        "Action"
+    ],
+    "The Witcher 3: Wild Hunt": [],
+    "Banana": [],
+    "The Descendant": [],
+    "MIR4": [],
+    "Action! - Gameplay Recording and Streaming": [],
+    "Combat Master": [],
+    "Subnautica": [],
+    "Tabletop Simulator": [],
+    "Minecraft Dungeons": [],
+    "Super Auto Pets": [],
+    "Deceit": [],
+    "Super Animal Royale": [],
+    "surviv.io - 2D Battle Royale": [],
+    "MapleStory": [],
+    "Dark and Darker": [],
+    "Call of Duty: World at War": [],
+    "My Summer Car": [],
+    "Darwin Project": [],
+    "SoulWorker": [],
+    "Time Clickers": [],
+    "Nuclear Throne": [
+        "Action",
+        "Indie",
+        "RPG"
+    ],
+    "Crypt of the NecroDancer": [],
+    "Warhammer 40,000: Gladius - Relics of War": [],
+    "Limbus Company": [],
+    "Controller Companion": [],
+    "Skul: The Hero Slayer": [],
+    "Melvor Idle": [],
+    "Assassin's Creed II": [],
+    "Age of Empires IV: Anniversary Edition": [],
+    "Hearts of Iron II: Complete": [],
+    "Lossless Scaling": [],
+    "Phoenix Wright: Ace Attorney Trilogy": [],
+    "Frostpunk": [],
+    "One-armed robber": [],
+    "Oxygen Not Included": [
+        "Indie",
+        "Simulation"
+    ],
+    "Planetbase": [],
+    "Thief Simulator 2": [],
+    "Hue": [],
+    "MOBIUS FINAL FANTASY": [],
+    "Golf It!": [],
+    "Garfield Kart": [],
+    "NBA 2K20": [],
+    "Call to Arms": [],
+    "For Honor": [],
+    "Rogue Company": [],
+    "Darkest Dungeon\u00ae": [
+        "Indie",
+        "RPG",
+        "Strategy"
+    ],
+    "South Park\u2122: The Stick of Truth\u2122": [],
+    "KovaaK's": [],
+    "Assassin's Creed Origins": [],
+    "Chivalry: Medieval Warfare": [],
+    "Insurgency: Sandstorm": [
+        "Action"
+    ],
+    "Borderlands 3": [],
+    "Total War: NAPOLEON - Definitive Edition": [],
+    "Hell Let Loose": [],
+    "Arma Reforger": [],
+    "MX Bikes": [],
+    "Call of Duty: Modern Warfare 2 (2009) - Multiplayer": [],
+    "NBA 2K17": [],
+    "NBA 2K16": [],
+    "NBA 2K23": [],
+    "Borderless Gaming": [],
+    "Vampire Survivors": [],
+    "F1 2013": [],
+    "Palia": [],
+    "Predecessor": [],
+    "Total War: WARHAMMER II": [
+        "Acci\u00f3n",
+        "Estrategia"
+    ],
+    "EmergeNYC": [],
+    "Discord Bot Maker": [],
+    "Warhammer 40,000: Darktide": [],
+    "Drug Dealer Simulator": [],
+    "Drug Dealer Simulator 2": [],
+    "METAL GEAR RISING: REVENGEANCE": [],
+    "Madden NFL 21": [],
+    "Automation - The Car Company Tycoon Game": [],
+    "Robocraft": [],
+    "Need for Speed\u2122 Heat ": [],
+    "Rising Storm 2: Vietnam": [],
+    "CarX Street": [],
+    "Little Nightmares": [],
+    "Totally Accurate Battle Simulator": [],
+    "WEBFISHING": [
+        "Casual",
+        "Indie",
+        "Massively Multiplayer"
+    ],
+    "Chillquarium": [],
+    "Path of Giants": [],
+    "RUNNING WITH RIFLES": [],
+    "Enter the Gungeon": [
+        "Action",
+        "Adventure",
+        "Indie"
+    ],
+    "Phantasy Star Online 2 New Genesis": [],
+    "Tom Clancy's The Division": [],
+    "Tom Clancy's Ghost Recon\u00ae Wildlands": [
+        "Action",
+        "Adventure"
+    ]
+}
